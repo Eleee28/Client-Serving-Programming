@@ -1,0 +1,3 @@
+[submodule "DayTimeClientServer"]
+	path = DayTimeClientServer
+	url = git@github.com:Eleee28/DayTimeClientServer.git
