@@ -1,2 +1,6 @@
-# Client-Serving-Programming
-Client Serving Programming (3rd Year Computer Sciences TUD)
+# Client Serving Programming
+This repository contains all material of the subject Client Serving Programming.
+
+## Folder Organization
+- ``DayTimeClientServer``: daytime Client-Server proyect.
+- ``EchoClientServer``: echo Client-Server proyect.
