@@ -1,6 +1,0 @@
-[submodule "DayTimeClientServer"]
-	path = DayTimeClientServer
-	url = git@github.com:Eleee28/DayTimeClientServer.git
-[submodule "EchoClientServer"]
-	path = EchoClientServer
-	url = git@github.com:Eleee28/EchoClientServer.git
